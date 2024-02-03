@@ -80,4 +80,8 @@ IMDb (Internet Movie Database) is a popular online database for information rela
         France - 6.780769231
         UK - 6.833881579
 
+![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/76435f99-da01-4271-b1bf-eb66dd2c06fa)
+
+ 
+
     

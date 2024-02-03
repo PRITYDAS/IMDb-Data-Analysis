@@ -95,7 +95,7 @@ This project has showcased the immense potential of data analysis and machine le
 Moreover, this project has offered a detailed overview of the movie industry, providing a wealth of insights into the data. The findings can serve as a valuable resource for movie enthusiasts, as well as industry professionals seeking to gain a deeper understanding of the industry.
 In summary, this project has demonstrated the power of data-driven analysis in uncovering valuable insights and has contributed to the broader understanding of the movie industry. The findings can inform future decision-making and have the potential to enhance the success of future movies.
 
-
+# Created by Anamika Das
  
 
     

@@ -17,7 +17,7 @@ IMDb (Internet Movie Database) is a popular online database for information rela
 6. Show titles that earned between $1,000,000 and $3,000,000 in Gross Revenue. How many titles 
    fell into this range?
 7. What are the top 5 highest budget genre movies?			
-8. Show the values as a Rank (large to small) based on the year.Which year in the 4-year sample 
+8. Show the values as a Rank (large to small) based on the year.Which year in the 4-year sample?
    saw the highest-rated Biography films on average? The lowest?
 9. Which Title generated the strongest Profit Margin in the entire sample (across all years)?
 10. Which of the 10 countries generated the lowest average IMDb scores?
@@ -56,6 +56,7 @@ IMDb (Internet Movie Database) is a popular online database for information rela
 ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/41a2547e-b750-46d9-bfe9-79a241de49b5)
 
 7. top 5 budgeted Genre Movies are:
+
        Action - $62,947,620,569
        Adventure - $ 24,926,429,575 
        Comedy- $ 35,709,457,007
@@ -70,7 +71,7 @@ IMDb (Internet Movie Database) is a popular online database for information rela
    ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/5d3b911e-572b-49a6-a1c7-d30defdd844b)
 
    
-10. According to the insight Paranormal Activity $107,902,283 Generated Strongest Profit Margin.
+9. According to the insight Paranormal Activity $107,902,283 Generated Strongest Profit Margin.
     
 ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/d4470d60-e247-4a60-b2d2-3ea50625e832)
 

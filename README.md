@@ -1,5 +1,27 @@
 # IMDb-Data-Analysis
 This is a brief analysis of IMDb dataset using Excel.
+IMDB Movie Dashboard																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/72ee8760-6e26-4771-9e44-5f62314dc986)
+
 # Introduction
 IMDb (Internet Movie Database) is a popular online database for information related to films, television programs, and video games.It includes details such as cast, crew, release dates, plot summaries, and user ratings. IMDb is a popular resource for film enthusiasts and industry professionals to explore and discover information about a vast array of entertainment content. The dataset includes details like user ratings, reviews, and various attributes related to films, providing a robust foundation for data-driven analyses in the realm of cinema and television.
 # This project includes steps as following:

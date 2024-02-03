@@ -55,7 +55,7 @@ IMDb (Internet Movie Database) is a popular online database for information rela
 
 ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/41a2547e-b750-46d9-bfe9-79a241de49b5)
 
-7. Top 5 budgeted Genre Movies are :
+7. top 5 budgeted Genre Movies are:
        Action - $62,947,620,569
        Adventure - $ 24,926,429,575 
        Comedy- $ 35,709,457,007

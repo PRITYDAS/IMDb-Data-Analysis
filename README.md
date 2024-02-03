@@ -1,3 +1,24 @@
+IMDB Movie Dashboard																							 																						
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+																																													
+
 # IMDb-Data-Analysis
 This is a brief analysis IMDb dataset.
 # Introduction

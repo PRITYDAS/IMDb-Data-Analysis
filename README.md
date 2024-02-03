@@ -26,9 +26,38 @@ IMDb (Internet Movie Database) is a popular online database for information rela
    
         1. one missed called.
         2. Street Fighter.
-    		3. Trainwrek.
+        3. Trainwrek.
         4. Tora! Tora! Tora!	
         5. The quick and the death.
+   ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/149dca77-7a5d-48c9-b5b9-aced5092ba3a)
+
+2. According to the insight *The Celebration Title generated around $1,647,780.00.
+   
+![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/59e56ce3-530a-4b04-8c3e-d609ad12e93a)
+
+3.  According my report “A Passage to India” budget was $16,000,000.
+
+   ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/b571a898-7fe7-488b-b4f9-c95351dd523f)
+
+4. According to the chart  Action genre produced most gross revenue.
+
+   	
+![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/129b85b3-06ec-4ffc-8c90-dcaec9ffb2ef)
+
+![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/908104f0-9ff3-4a10-9eb0-157b2471ee94)
+
+5. According to The Avatar title is topmost of the revenue around $760,505,847.
+
+   ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/860afa7c-1195-4d6b-8f96-53633bf272ec)
+
+
+
+
+
+
+
+
+   
 
 
    

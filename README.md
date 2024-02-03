@@ -17,7 +17,8 @@ IMDb (Internet Movie Database) is a popular online database for information rela
 6. Show titles that earned between $1,000,000 and $3,000,000 in Gross Revenue. How many titles 
    fell into this range?
 7. What are the top 5 highest budget genre movies?			
-8. What’s the top-grossing flim that was released 2005,2006,2007,2008 in this during year.?
+8. Show the values as a Rank (large to small) based on the year.Which year in the 4-year sample 
+   saw the highest-rated Biography films on average? The lowest?
 9. Which Title generated the strongest Profit Margin in the entire sample (across all years)?
 10. Which of the 10 countries generated the lowest average IMDb scores?
 # Here are the outcomes of the IMDb report after analyzing the dataset.
@@ -62,8 +63,14 @@ IMDb (Internet Movie Database) is a popular online database for information rela
        Drama- $ 19,249,948,745
 
   ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/4f405545-e899-4d96-b19b-4fb5ff008c3d)
+  
+8. In the 4-year sample saw the highest-rated Biography films on average 2013 and
+   Lowest Rated Biography Film on Avearge is in 2011.
 
-9. According to the insight Paranormal Activity $107,902,283 Generated Strongest Profit Margin.
+   ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/5d3b911e-572b-49a6-a1c7-d30defdd844b)
+
+   
+10. According to the insight Paranormal Activity $107,902,283 Generated Strongest Profit Margin.
     
 ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/d4470d60-e247-4a60-b2d2-3ea50625e832)
 
@@ -81,6 +88,10 @@ IMDb (Internet Movie Database) is a popular online database for information rela
         UK - 6.833881579
 
 ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/76435f99-da01-4271-b1bf-eb66dd2c06fa)
+
+# Conclusion
+
+
 
  
 

@@ -1,5 +1,5 @@
 # IMDb-Data-Analysis
-This is a brief analysis IMDb dataset.
+This is a brief analysis of IMDb dataset using Excel.
 # Introduction
 IMDb (Internet Movie Database) is a popular online database for information related to films, television programs, and video games.It includes details such as cast, crew, release dates, plot summaries, and user ratings. IMDb is a popular resource for film enthusiasts and industry professionals to explore and discover information about a vast array of entertainment content. The dataset includes details like user ratings, reviews, and various attributes related to films, providing a robust foundation for data-driven analyses in the realm of cinema and television.
 # This project includes steps as following:
@@ -67,5 +67,17 @@ IMDb (Internet Movie Database) is a popular online database for information rela
     
 ![image](https://github.com/PRITYDAS/IMDb-Data-Analysis/assets/157217721/d4470d60-e247-4a60-b2d2-3ea50625e832)
 
-   
+10. Top 10 Countries generated lowest IMDB Scores are:
+        
+        Hong Kong - 6.884615385
+        China - 7.014285714
+        India - 6.614285714
+        Japan - 6.9875
+        spain - 6.972727273
+        Australia - 6.466666667
+        Canada - 6.220634921
+        Germany - 6.780769231
+        France - 6.780769231
+        UK - 6.833881579
 
+    
